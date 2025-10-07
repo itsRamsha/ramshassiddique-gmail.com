@@ -246,3 +246,4 @@ Project: Meetmux Hackathon — Chat Reply Recommendation System
 Model File: Model.joblib
 Report: Report.pdf
 Notebook: ChatRec_Model.ipynb
+ [https://drive.google.com/drive/folders/1VeSQV1Gt9ADg_nvI2ISpZj8zufsTAKZR?usp=sharing]  model link
